@@ -1,5 +1,5 @@
 # About Me:
-Cybersecurity enthusiast and aspiring hacker from Portland, Oregon.<br><br>Currently, I'm learning C, Rust, and Assembly
+Cybersecurity enthusiast and aspiring hacker from Portland, Oregon.<br><br>Currently learning C, Rust, and Assembly
 <br><br>
 
 
